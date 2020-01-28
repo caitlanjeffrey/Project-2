@@ -1,0 +1,52 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "Wag! Tinder for pet adoptions!",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@petfinder/petfinder-js": "^1.0.6",
+    "animejs": "^3.1.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "jquery.cookie": "^1.4.1",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash-es": "^4.17.15",
+    "lodash-move": "^1.1.1",
+    "mysql2": "^2.1.0",
+    "node": "^13.6.0",
+    "petfinderAPI4everybody": "github:cferdinandi/petfinderAPI4everybody",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.3.0",
+    "react-spring": "^8.0.27",
+    "react-with-gesture": "^4.0.8",
+    "sequelize": "^5.8.6",
+    "styled-components": "^5.0.0",
+    "swipe-listener": "^1.1.0",
+    "vec-la": "^1.5.0"
+  },
+  "devDependencies": {
+    "handlebars": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitlanjeffrey/Project-2.git"
+  },
+  "author": "Caitlan Jeffrey, Kevin Adamski, Liam Heckman, Loren Kolstad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caitlanjeffrey/Project-2/issues"
+  },
+  "homepage": "https://github.com/caitlanjeffrey/Project-2#readme"
+}
