@@ -53,8 +53,6 @@ Swipe right to save a pet
 Swipe left to move on to the next pet
 Select your account to view saved pets
 
-![Video](/public/img/wagvideo.mov)
-
 # Author
     * Caitlan Jeffrey
     * Kevin Adamski
